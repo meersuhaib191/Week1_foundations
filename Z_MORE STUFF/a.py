@@ -4,7 +4,7 @@ my = { 'n3' : 'suhaib' ,
        'n4' :  'musaib'
 }
 
-my['n1']= 'saidee'
+my['n1']= 'saideee'
 print(my.items())
 
 print(my['n3'])
